@@ -1,0 +1,11 @@
+Sensor Data
+   ↓
+Data Cleaning
+   ↓
+Feature Engineering
+   ↓
+Isolation Forest / Autoencoder
+   ↓
+Anomaly Detection
+   ↓
+Streamlit Dashboard
